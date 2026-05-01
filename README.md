@@ -3,6 +3,7 @@
 Este laboratorio consiste en configurar un entorno DOSBox funcional para desarrollar programas en lenguaje ensamblador x86. Se escribieron y ensamblaron dos programas completos con NASM dentro del entorno emulado, se verificó su comportamiento con el depurador DEBUG de DOS, y se documentó todo el proceso en este repositorio GitHub.
 
 *Entorno utilizado*
+
 DOSBox 0.74-3
 
 NASM 2.16.03
